@@ -1,3 +1,4 @@
+/*TEST GITHUB*/
 create table COUNTRIES
 (
   id       NUMBER generated always as identity,
