@@ -1,2 +1,2 @@
 # football_tables
-PL/SQL scripts for generation of football championships' tables.
+PL/SQL scripts for the generation of football championships' tables.
