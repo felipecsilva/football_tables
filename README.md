@@ -27,7 +27,7 @@ INSERT INTO COUNTRIES (name, initials) VALUES ('Brasil', 'BRA');
 
 -- Inserir um time
 INSERT INTO TEAMS (name, completename, initials, country_id)
-VALUES ('Flamengo', 'Clube de Regatas do Flamengo', 'FLA', 1);
+VALUES ('Fluminense', 'Fluminense Football Club', 'FLU', 1);
 
 -- Criar um campeonato
 INSERT INTO CHAMPIONSHIPS (name, country_id, season)
